@@ -2,7 +2,7 @@
 
 Welcome to our lab github repository!
 
-We are a research group starting at the Fox Chase Cancer Center in Spring 2027.
+We are a research group starting at Fox Chase Cancer Center in Spring 2027.
 
 To learn more about us, check out our lab website: https://singhlab.bio/ 
 
